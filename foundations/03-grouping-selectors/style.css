@@ -1,0 +1,14 @@
+.original,
+.pretender {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.original {
+    background-color: black;
+    color: white;
+}
+
+.pretender {
+    background-color: yellow;
+}
