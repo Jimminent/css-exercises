@@ -22,7 +22,8 @@ ul {
   flex: 0 1 220px;
 }
 
-/* .left-links {
+/* I replaced the commented code with justify-content: space-between in .header
+ .left-links {
   margin-right: auto;
 }
 
