@@ -16,6 +16,8 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-weight: bold;
+  font-size: xx-large;
 }
 
 .footer {
@@ -36,6 +38,17 @@ body {
   border-radius: 4px;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  margin: 16px 0px;
+}
+
 a {
   color: white;
+  text-decoration: none;
 }
